@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Vijayavani K 👋
 
-<!--
-**vijayavani27-AI/vijayavani27-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Pursuing B.Tech in **AI & Data Science**
+- 🛠️ Tech Stack: **Java, Python, React, Node.js, Express, MongoDB, Machine Learning**
+- 🔭 Currently working on: Intelligent web applications & QoS Traffic management systems
+- 📫 LinkedIn: [Vijayavani K](https://www.linkedin.com/in/vijayavani-k-b4090a338)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Tech Stack & Tools
+- **Languages:** Python, Java, JavaScript, C
+- **Frontend & UI:** React, Tailwind CSS, HTML5 Canvas
+- **Backend & Data:** Node.js, Express, MongoDB, Pandas, NumPy
